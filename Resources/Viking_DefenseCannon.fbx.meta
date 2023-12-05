@@ -1,0 +1,200 @@
+fileFormatVersion: 2
+guid: 158ec6a3c3f75774e9c19eeed881e0b2
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Camera
+    100002: Circle.001
+    100004: Cube.007
+    100006: Cylinder
+    100008: Cylinder.001
+    100010: Cylinder.002
+    100012: Cylinder.003
+    100014: Empty
+    100016: Ground
+    100018: Icosphere
+    100020: Plane.010
+    100022: Plane.011
+    100024: Plane.012
+    100026: Plane.013
+    100028: Plane.014
+    100030: Plane.015
+    100032: Plane.016
+    100034: Plane.017
+    100036: Plane.018
+    100038: Plane.019
+    100040: sIBL Controls Arches PineTree
+    100042: sIBL Sun Arches PineTree
+    100044: Sphere
+    100046: //RootNode
+    400000: Camera
+    400002: Circle.001
+    400004: Cube.007
+    400006: Cylinder
+    400008: Cylinder.001
+    400010: Cylinder.002
+    400012: Cylinder.003
+    400014: Empty
+    400016: Ground
+    400018: Icosphere
+    400020: Plane.010
+    400022: Plane.011
+    400024: Plane.012
+    400026: Plane.013
+    400028: Plane.014
+    400030: Plane.015
+    400032: Plane.016
+    400034: Plane.017
+    400036: Plane.018
+    400038: Plane.019
+    400040: sIBL Controls Arches PineTree
+    400042: sIBL Sun Arches PineTree
+    400044: Sphere
+    400046: //RootNode
+    2000000: Camera
+    2100000: Metal2
+    2100002: Metal
+    2100004: Rubber
+    2100006: BrownLight
+    2100008: Placeholder_grass
+    2100010: DullVariation.001
+    2300000: Circle.001
+    2300002: Cube.007
+    2300004: Cylinder
+    2300006: Cylinder.001
+    2300008: Cylinder.002
+    2300010: Cylinder.003
+    2300012: Ground
+    2300014: Icosphere
+    2300016: Plane.010
+    2300018: Plane.011
+    2300020: Plane.012
+    2300022: Plane.013
+    2300024: Plane.014
+    2300026: Plane.015
+    2300028: Plane.016
+    2300030: Plane.017
+    2300032: Plane.018
+    2300034: Plane.019
+    3300000: Circle.001
+    3300002: Cube.007
+    3300004: Cylinder
+    3300006: Cylinder.001
+    3300008: Cylinder.002
+    3300010: Cylinder.003
+    3300012: Ground
+    3300014: Icosphere
+    3300016: Plane.010
+    3300018: Plane.011
+    3300020: Plane.012
+    3300022: Plane.013
+    3300024: Plane.014
+    3300026: Plane.015
+    3300028: Plane.016
+    3300030: Plane.017
+    3300032: Plane.018
+    3300034: Plane.019
+    4300000: Circle.001
+    4300002: Cylinder
+    4300004: Sphere
+    4300006: Cylinder.003
+    4300008: Icosphere
+    4300010: Cylinder.002
+    4300012: Cylinder.001
+    4300014: Cube.007
+    4300016: Ground
+    4300018: Plane.010
+    4300020: Plane.011
+    4300022: Plane.012
+    4300024: Plane.013
+    4300026: Plane.014
+    4300028: Plane.015
+    4300030: Plane.016
+    4300032: Plane.017
+    4300034: Plane.018
+    4300036: Plane.019
+    7400000: Empty|EmptyAction
+    9500000: //RootNode
+    10800000: sIBL Sun Arches PineTree
+    13700000: Sphere
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
